@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#mensagem {
+    color: #d35400;
+    margin-top: 20px;
+}

@@ -1,0 +1,19 @@
+body {
+    margin: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input {
+    width: 40px;
+    padding: 5px;
+    margin: 8px;
+}
+  
+#padrao {
+    font-weight: bold;
+    margin-top: 15px;
+}
+  
+#sequencia {
+    font-style: italic;
+}
